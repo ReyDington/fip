@@ -1,4 +1,4 @@
-# fip
+# FIP
 Fast investment program (FIP) is a token based investment program focused on crypto market of the most popular cryptocurrencies trading. Compared to other trade programs, FIP using a different algorithm of trading which has income without losses.
 
 https://fastinvestment.tech/
